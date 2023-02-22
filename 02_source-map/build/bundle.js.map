@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "file": "bundle.js",
+  "mappings": ";;;;;AAAA;AACA;AACA;AACA;;AAEA;;AAEA,K",
+  "sources": [
+    "webpack://webpack-high-study/./src/index.js"
+  ],
+  "sourcesContent": [
+    "const obj = {\n  name: 'korea',\n  age: 20\n}\n\nconst foo = () => console.log('exec foo');\n\nfoo()"
+  ],
+  "names": [],
+  "sourceRoot": ""
+}

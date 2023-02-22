@@ -1,0 +1,1 @@
+document.body.textContent = 'Category 页面'
