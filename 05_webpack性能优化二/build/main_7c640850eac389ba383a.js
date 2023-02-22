@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[179],{352:()=>{var n="korea";console.log(n.includes("k"));new Promise((function(e,o){e(n)})).then((function(n){return console.log(n)})).catch((function(n){return console.log(n)}))}},n=>{var e;e=352,n(n.s=e)}]);
